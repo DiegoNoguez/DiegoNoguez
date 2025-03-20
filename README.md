@@ -1,6 +1,6 @@
-## **Hola Soy Diego** 
+## **Hi i am Diego ** 
 
-### Bienvenido a mi Github
+### Welcome to my GIthub
 
 <!--
 **DiegoNoguez/DiegoNoguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
