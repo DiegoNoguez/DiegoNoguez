@@ -1,4 +1,4 @@
-## **Hi i am Diego ** 
+## **Hi I'm Diego** 
 
 ### Welcome to my GIthub
 
