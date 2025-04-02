@@ -3,7 +3,7 @@
 ### Welcome to my GIthub
 
 
-I'm student 
+I'm student of Systems engineering 
 
 <!--
 **DiegoNoguez/DiegoNoguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
