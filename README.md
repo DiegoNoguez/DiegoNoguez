@@ -2,10 +2,10 @@
 
 ### Welcome to my GIthub
 
+### About me:
 
 I'm student of Systems engineering 
 
-### About me:
 
 <!--
 **DiegoNoguez/DiegoNoguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
