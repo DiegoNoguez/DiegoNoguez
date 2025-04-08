@@ -4,7 +4,7 @@
 
 ### About me:
 
-I'm student of Systems engineering 
+I'm student of Systems engineering of four semester 
 
 
 ### I CODE IN
