@@ -64,7 +64,7 @@
 
 ###
 
-<p align="left">My social media and medium of</p>
+<p align="left">My social media and medium of contact </p>
 
 ###
 
