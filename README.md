@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a fifth semester student studying Computer Systems Engineering. <br>On the other hand, I am proactive along with studying different technologies and writing in my free time</p>
+<p align="left">I am a sixth semester student studying Computer Systems Engineering. <br>On the other hand, I am proactive along with studying different technologies and writing in my free time</p>
 
 ###
 
